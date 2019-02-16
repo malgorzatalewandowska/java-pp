@@ -6,5 +6,8 @@ public class Main {
         RGB red = rgb.setColor(255, 0, 0);
         RGB green = rgb.setColor(0, 255, 0);
         System.out.println(rgb.addColors(red, green));
+        System.out.println(rgb.addColors(red, green));
+        System.out.println(rgb.addColors(red, green));
+
     }
 }
